@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6784e76-b98b-4827-ad98-f4d25ae7b997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution/DeleteSameNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution/FindZLongestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution/IntReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Solution/PartitionNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Solution/FindMedianSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Solution/FindMedianSortedArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Solution/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Javasuanfa/com/company/Solution/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Solution/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Solution/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Solution/ReverseBetweenNoe.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Solution/PartitionNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="170">
+              <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Solution/ReverseBetweenNoe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -150,12 +150,13 @@
         <option value="$PROJECT_DIR$/src/com/company/Solution/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/com/company/Solution/DeleteSameNode.java" />
         <option value="$PROJECT_DIR$/src/com/company/Solution/PartitionNode.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Solution/ReverseBetweenNoe.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="79" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="64" />
+    <option name="y" value="92" />
     <option name="width" value="1282" />
     <option name="height" value="834" />
   </component>
@@ -262,15 +263,15 @@
       <workItem from="1578486411638" duration="2285000" />
       <workItem from="1578540581428" duration="1979000" />
       <workItem from="1578573458669" duration="982000" />
-      <workItem from="1578915905341" duration="3419000" />
+      <workItem from="1578915905341" duration="3561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45083000" />
+    <option name="totallyTimeSpent" value="45225000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="158" y="84" width="1282" height="834" extended-state="0" />
+    <frame x="64" y="92" width="1282" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24112903" />
@@ -412,8 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Solution/PartitionNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="170">
+          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Solution/ReverseBetweenNoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
