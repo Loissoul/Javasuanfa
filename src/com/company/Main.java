@@ -1,6 +1,7 @@
 package com.company;
 
 import com.company.Solution.FindMedianSortedArrays;
+import com.company.Solution.FindZLongestString;
 import com.company.Solution.TwoSum;
 import com.company.Solution.LongestSubString;
 
@@ -11,8 +12,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Main.test3();
+        Main.test4();
 
+    }
+
+    static void test4() {
+        FindZLongestString test = new FindZLongestString();
+        test.convert("LEETCODEISHIRING", 3);
     }
 
     static void testTowSum () {

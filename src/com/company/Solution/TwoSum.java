@@ -59,18 +59,22 @@ public class TwoSum {
     //翻转链表
 //  Node reserver(Node node) {
 //
-//    Node p;
-//    p = node;
-//    Node q;
+//    Node p = node;
+//    Node q = null;
+//    Node result = null;
 //
 //    while (p != null) {
+//      if (result == null) {
+//          result = p;
+//      }
 //      var temp = p.nextNode;
-//      p.nextNode = null;
+//
+//      p.nextNode = q;
 //      q = p;
 //      p = temp;
 //    }
 //
-//    return p;
+//    return result;
 //  }
 
 
